@@ -1,6 +1,6 @@
 #What the funk?
 
-Hello. This is the source code for this website: http://nternetinspired.github.com/
+Hello. This is the source code for this website: http://mattwillmott.github.com/
 
 It was smashed together hastily by [Seth Warburton](http://twitter.com/nternetinspired).
 
